@@ -13,4 +13,7 @@
 4. **Large Text Support**: Capable of encoding large blocks of text efficiently.
 5. **Fast Processing**: Quickly encodes text to save you time.
 
-If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).
+If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
